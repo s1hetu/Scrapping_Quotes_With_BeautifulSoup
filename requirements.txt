@@ -1,0 +1,4 @@
+virtualenv==20.16.5
+requests==2.26.0
+beautifulsoup==4.12.2
+
