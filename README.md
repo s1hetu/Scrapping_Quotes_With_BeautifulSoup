@@ -6,8 +6,10 @@
 
 # Virtual Environment
 
+```python
 virtualenv <name>
 source <path_to_name>/bin/activate
+```
 
 # Install Requirements
 
@@ -15,7 +17,7 @@ source <path_to_name>/bin/activate
 pip install -r requirements.txt
 ```
 
-# Run Program
+# Run Script
 
 ```python
 python3 main.py
